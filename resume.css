@@ -1,0 +1,43 @@
+body{
+    background-color: #5CDB95;
+    background-size: cover;
+}
+header{
+    display: flex ;
+}
+#photo{
+    border-radius: 50%;
+    height: 175px;
+    width: 200px;
+    
+    background-image: url(sunil.png);
+    background-size: cover;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+ul,ol,p{
+    font-size: 22px;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+#intro{
+    margin-left: 10%;
+}
+#lang{
+    margin-left: 15%;
+    margin-top: 1.5%;
+    
+   height: 174px;
+}
+a,h2{
+    color: #EDF5E1;
+    background-color: #05386B;
+   
+    
+}
+#lang:hover{
+    background-color: #05386B;
+}
